@@ -49,7 +49,7 @@ A Python application with a graphical interface for testing and comparing differ
 
 1. Clone this repository or download the source code
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DARK-KNIGHTKN/pdf_doc-text_extractor
    cd pdf_docx_extractor_test
 Create a virtual environment
 
