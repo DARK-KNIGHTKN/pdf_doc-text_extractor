@@ -1,4 +1,4 @@
-📄 Document Text Extractor Tester
+📄 Document Text Extractor Tester 
 Python Platform License Status
 
 A Python application with a graphical interface for testing and comparing different text extraction libraries for PDF and DOCX files.
