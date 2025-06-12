@@ -79,7 +79,7 @@ class DocumentExtractorApp:
         ttk.Button(resume_frame, text="Browse...", command=self.browse_resume).pack(side=tk.LEFT, padx=5)
         
         # JD file selection
-        jd_frame = ttk.Frame(file_frame)
+        jd_frame = ttk.Frame(file_frame) 
         jd_frame.pack(fill=tk.X, pady=5)
         
         ttk.Label(jd_frame, text="Job Description File:").pack(side=tk.LEFT, padx=5)
